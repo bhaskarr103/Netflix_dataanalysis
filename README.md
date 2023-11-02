@@ -3,12 +3,6 @@
 # Project Description
 In this Project I have analyze and gain insight of the kind of content available in the Netflix dataset.
 
-# Roadmap
-Data subset collected from kaggle.<br>
-Loading Libraries<br>
-Data Cleaning & Finding Missing values<br>
-Data Visualization<br>
-
 # Data Visualization
 Type: Movies & Tv Shows<br>
 Rating of Shows & Movies<br>
