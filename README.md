@@ -45,6 +45,7 @@ Movie Genre is selected show all the query related to Movie
 ![Screenshot (132)](https://github.com/bhaskarr103/Netflix_dataanalysis/assets/123258478/01855c0f-5637-4018-a8e6-43225ee630ba)
 
 
-![Screenshot (133)](https://github.com/bhaskarr103/Netflix_dataanalysis/assets/123258478/01855c0f-5637-4018-a8e6-43225ee630ba)
+![Screenshot (133)](https://github.com/bhaskarr103/Netflix_dataanalysis/assets/123258478/4ed92731-ea94-417d-9b2d-21be6558571f)
+
 
 
