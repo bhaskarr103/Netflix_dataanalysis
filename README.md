@@ -4,24 +4,26 @@
 In this Project I have analyze and gain insight of the kind of content available in the Netflix dataset.
 
 # Roadmap
-Data subset collected from kaggle.
-Loading Libraries
-Data Cleaning & Finding Missing values
-Data Visualization
+Data subset collected from kaggle.<br>
+Loading Libraries<br>
+Data Cleaning & Finding Missing values<br>
+Data Visualization<br>
+
 # Data Visualization
-Type: Movies & Tv Shows
-Rating of Shows & Movies
-Relation Between Type and Rating
-Pie-chart for the Type: Movie and TV Shows
-Pie-chart for Rating
-Showing Wordcloud For Country, Directors,Category
+Type: Movies & Tv Shows<br>
+Rating of Shows & Movies<br>
+Relation Between Type and Rating<br>
+Pie-chart for the Type: Movie and TV Shows<br>
+Pie-chart for Rating<br>
+Showing Wordcloud For Country, Directors,Category<br>
+
 # Libraries Used
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Wordcloud
-Methodology
+Numpy<br>
+Pandas<br>
+Matplotlib<br>
+Seaborn<br>
+Wordcloud<br>
+Methodology<br>
 The goal of this project is to practice creating and interpreting different types of visualizations using real world data. I create a minimum of two histogram, two pie chart and one bar graph with matplotlib, seaborn and worldcloud.
 
 # Project Description
