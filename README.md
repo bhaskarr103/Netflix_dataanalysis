@@ -24,15 +24,15 @@ The goal of this project is to practice creating and interpreting different type
 The project shows the insights of the Netflix .
 
 # Roadmap
-Data subset collected from kaggle: https://www.kaggle.com/shivamb/netflix-shows .
-Loading Data in PowerBi Dekstop
-Data Transformation & Cleaning
-Building Relationship Between tables
-Using DAX to Create Imp measure
-Visualization Using Tools
-Preparing PowerBi Report
-Project is ready and live
-Netflix Analysis Dashboard
+Data subset collected from kaggle.<br>
+Loading Data in PowerBi Dekstop<br>
+Data Transformation & Cleaning<br>
+Building Relationship Between tables<br>
+Using DAX to Create Imp measure<br>
+Visualization Using Tools<br>
+Preparing PowerBi Report<br>
+Project is ready and live<br>
+Netflix Analysis Dashboard<br>
 
 # The dashboard shows:
 
